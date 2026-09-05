@@ -1,4 +1,4 @@
-name: Build THAKUR VOICE CHAT APK
+name:  THAKURVOICECHAT
 
 on:
   workflow_dispatch:
