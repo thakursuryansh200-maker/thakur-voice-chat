@@ -1,4 +1,4 @@
-# THAKUR VOICE CHAT — Step 1
+# THAKUR_VOICE_CHAT — Step 1
 
 Starter Flutter UI prototype based on the supplied reference screens.
 
