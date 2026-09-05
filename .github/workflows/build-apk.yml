@@ -1,4 +1,4 @@
-name: thakur_vioice_chat
+name: build thakur vioice chat
 
 on:
   workflow_dispatch:
