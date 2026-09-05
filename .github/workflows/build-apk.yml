@@ -1,4 +1,4 @@
-name: thakur-voice-chat
+name: thakur_voice_chat
 
 on:
   workflow_dispatch:
